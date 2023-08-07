@@ -9,7 +9,7 @@ The score is displayed at the bottom of the game window.
 The snake grows longer and the score increases when it eats a fruit, represented by a red rectangle.
 The game ends if the snake collides with the boundaries of the game window or with its own body.
 
-##Game Configuration
+## Game Configuration
 The game has several constants that can be adjusted for different game experiences. These constants are stored at the beginning of the code and include:
 
 GAME_HEIGHT: The height of the game window in pixels.
